@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, myself vikash kumar</h1>
 <h3 align="center">I am Cs Ungergrad at IITP</h3>
 - 🔭 I’m currently working on **Social Media and Web Design**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **vikash_2312res734@iitp.ac.in**
