@@ -1,5 +1,5 @@
 <img src="https://img.freepik.com/premium-photo/man-streamlining-web-presence-optimizing-search-console-efficient-data-retrieval_971713-927.jpg" width="100%" height = "50%" />
-<h1 align="center">Hi 👋, My vikash kumar</h1>
+<h1 align="center">Hi 👋, Myself vikash kumar</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
 
@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with [AI Virtual Mouse Controller with in-build Voice Assistant](https://github.com/Gyan-max/AI-Virtual-mouse-controller-with-Inbuild-Voice-Assistant)
 - 🌱 I’m currently learning **Reacts JS**
 <video src="https://i.gifer.com/5TMy.gif" float = "right"></video>
-- 📫 How to reach me **gyanranjan4427@gmail.com**
+- 📫 How to reach me **vikash_2312res734@iitp.ac.in**
 
 <div> <a href="https://twitter.com/gya17542" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gyan-ranjan-572a282a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 <a href = "mailto:gyanranjan4427@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gya17542" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="gya17542" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/gyan-ranjan-572a282a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyan-ranjan-572a282a7/" height="30" width="40" /></a><a href="https://www.hackerrank.com/gyanranjan4427" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="gyanranjan4427" height="30" width="40" /></a><a href="https://instagram.com/being_tanay53" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="being_tanay53" height="30" width="40" /></a></p>
+<a href="https://twitter.com/VikashK32331488" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="gya17542" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/gyan-ranjan-572a282a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikash-kumar-648618291/" height="30" width="40" /></a><a href="https://www.hackerrank.com/gyanranjan4427" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="gyanranjan4427" height="30" width="40" /></a><a href="https://www.instagram.com/vikash._517/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="being_tanay53" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
